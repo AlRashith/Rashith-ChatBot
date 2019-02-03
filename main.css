@@ -1,0 +1,76 @@
+
+
+body {
+display:block;  
+background:black;
+}
+
+
+
+
+.mainclass{
+    border-radius:10px;
+    background:rgb(244, 215, 66);
+    font-family:"Courier", Georgia, Serif;
+    padding:10px;
+    color:green;
+    
+    
+    
+}
+
+.input{
+    border-radius:10px;
+    background:rgb(244, 215, 66);
+    font-family:"Courier", Georgia, Serif;
+    padding:30px;
+    color:white;
+    bottom:10px;
+    position:static;
+    
+    
+   
+}
+
+
+#input{
+    border-radius:10px;
+    width:300px;
+    height:50px;
+    font-size:25px;
+    font-family:"Courier", Georgia, Serif;
+}
+#submit{
+    color:white;
+    background:black;
+    border-radius:10px;
+    width:100px;
+    height:20px;
+    font-size:15px;
+    font-family:"Courier", Georgia, Serif;
+}
+
+#Message1{
+   border-radius:10px;
+    font-size:20px;
+    font-family:"Courier", Georgia, Serif;
+    background:rgb(244, 215, 66);
+    color:white;
+  
+}
+#Message2{
+    border-radius:10px;
+     font-size:20px;
+     font-family:"Courier", Georgia, Serif;
+      background:rgb(249, 244, 102);
+      color:black;
+    
+}
+.status{
+    color:white;
+}
+
+#a
+{
+    background:"white";
+}
